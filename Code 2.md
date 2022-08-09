@@ -10,4 +10,16 @@
 | Lieblingsspiel| Csgo | Valorant|
 
 
-[Hier](https://www.youtube.com/watch?v=dQw4w9WgXcQ) kommt man zu einem coolen Video. heh
+Hier ist ein Code, geschriben in c#
+
+
+```c#
+using System;
+
+class Hello
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World");
+    }
+}
