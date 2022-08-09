@@ -1,9 +1,13 @@
 # Links
 
 
-[Hier](https://www.youtube.com/watch?v=dQw4w9WgXcQ) kommt man zu einem coolen Video. heh
 
-| | Ronaldo | Messi |
+| | P1 | P2 |
 |---------|---------|-------|
-| Goals   | 1000+ | 900+|
-| Assits  | 300+ | 500+ |
+| Haustiere  | 1 | 3|
+| Lieblingsessen  | Pizza| Haselnuss |
+| Hobby | Fussball | Basketball |
+| Lieblingsspiel| Csgo | Valorant|
+
+
+[Hier](https://www.youtube.com/watch?v=dQw4w9WgXcQ) kommt man zu einem coolen Video. heh
