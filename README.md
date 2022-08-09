@@ -1,9 +1,8 @@
-# First Title yeah
-## Hier wird etwas erstellt
+# Erste Datei
 
 
 
-`Hier kommt ein Zitat`
+`Hier kommt ein Zitat aus One Piece`
 
 *Woran stirbt ein Mensch?*
 
@@ -20,7 +19,7 @@
 
 ![Das ist One Piece](https://user-images.githubusercontent.com/110892637/183600819-225ec53b-8418-4377-bb23-1217e2228580.png)
 
-
+`Hier ist noch etwas lustiges`
 
 
 Hello My name is **Jamal** Every 60 seconds in Africa a minute passes.
